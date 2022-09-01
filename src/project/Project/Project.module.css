@@ -1,0 +1,20 @@
+.project {
+    width: 350px;
+    background-color: #63c9ec;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: space-between;
+
+}
+
+.button {
+    width: 100%;
+    background-color: #0880a9;
+    cursor: pointer;
+}
+
+.description {
+    margin: 5px;
+}
